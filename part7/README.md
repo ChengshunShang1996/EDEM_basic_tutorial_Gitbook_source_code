@@ -1,2 +1,2 @@
-# 7 流固耦合模拟（入门）
+# 7 DEM-Structure simulation
 

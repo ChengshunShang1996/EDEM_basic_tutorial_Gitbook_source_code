@@ -2,8 +2,14 @@
 
 I plan to write a simple tutorial for Kratos DEM.
 
-But I haven't found time to do this.
+There are two reasons: 
 
-The link to it: https://chengshunshang1996.github.io/1st-gitbook/
+(1) Writting it down can help myself remember it for a longer time.
 
-（To be updated）
+(2) Maybe this can help the beginner who want to use Kratos DEM to run their cases.
+
+I do not really have too much time to do this.
+
+But I will keep update it once I have time.
+
+The link to the Gitbook: https://chengshunshang1996.github.io/1st-gitbook/

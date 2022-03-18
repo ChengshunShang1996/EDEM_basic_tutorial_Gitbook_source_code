@@ -1,2 +1,2 @@
-# 6 EDEM的API二次开发
+# 6 DEM-CFD coupling in Kratos
 

@@ -1,2 +1,2 @@
-# 8 流固耦合模拟（进阶）
+# 8 How to creat a new application in Kratos
 
